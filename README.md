@@ -1,13 +1,13 @@
 HelpDesk API
 
-Sistema de gerenciamento de chamados (Help Desk) desenvolvido com Java, Spring Boot e Banco de Dados Relacional, com foco no aprendizado de desenvolvimento backend e construção de APIs REST.
+Sistema de gerenciamento de chamados (Help Desk) desenvolvido com Java e Spring Boot, com foco no aprendizado de desenvolvimento backend, APIs REST e integração com banco de dados.
 
-Objetivos do Projeto
-Praticar desenvolvimento de APIs REST com Spring Boot.
-Aplicar conceitos de arquitetura em camadas.
-Realizar operações CRUD em banco de dados.
-Trabalhar com DTOs, Services, Repositories e tratamento de exceções.
-Desenvolver boas práticas de organização e manutenção de código.
+Sobre o Projeto
+
+Este projeto tem como objetivo simular um sistema de suporte técnico, permitindo o gerenciamento de chamados e aplicando conceitos utilizados em aplicações corporativas.
+
+Durante o desenvolvimento, são praticados conceitos fundamentais do ecossistema Spring, organização em camadas, persistência de dados e boas práticas de programação.
+
 Tecnologias Utilizadas
 Java
 Spring Boot
@@ -17,25 +17,31 @@ Maven
 Banco de Dados Relacional
 Git e GitHub
 Estrutura do Projeto
-controller
-dto
- ├── request
- └── response
-entity
-exception
-mapper
-repository
-service
+Controller
+Service
+Repository
+Entity
+DTO (Request e Response)
+Mapper
+Exception
 Funcionalidades Planejadas
 Cadastro de chamados
-Atualização de chamados
 Consulta de chamados
+Atualização de chamados
 Exclusão de chamados
 Controle de status dos chamados
 Gerenciamento de usuários
-Tratamento de erros e validações
+Validações e tratamento de exceções
+Integração com banco de dados
+Objetivos de Aprendizagem
+Desenvolvimento de APIs REST com Spring Boot
+Arquitetura em camadas
+Persistência de dados com JPA
+Boas práticas de desenvolvimento backend
+Organização e manutenção de código
+Versionamento com Git e GitHub
 Status do Projeto
 
 🚧 Em desenvolvimento
 
-Este projeto faz parte da minha jornada de aprendizado em Java e Spring Boot, com o objetivo de aprofundar conhecimentos em desenvolvimento backend e boas práticas de construção de APIs.
+Este projeto faz parte da minha jornada de aprendizado em Java e Spring Boot, buscando consolidar conhecimentos em desenvolvimento backend e aproximar a experiência de cenários encontrados no mercado de trabalho.
