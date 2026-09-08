@@ -38,4 +38,4 @@ Status do Projeto
 
 🚧 Em desenvolvimento
 
-Projeto desenvolvido para consolidar conhecimentos em Java, Spring Boot, APIs REST e persistência de dados, simulando cenários encontrados em aplicações corporativas e sistemas de suporte técnico.
+Este projeto faz parte da minha jornada de aprendizado em Java e Spring Boot, com o objetivo de aprofundar conhecimentos em desenvolvimento backend e boas práticas de construção de APIs.
